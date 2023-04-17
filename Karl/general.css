@@ -47,6 +47,22 @@ h2{
     color: #fff;
 }
 
+#skip {
+    margin-top: 16px;
+    margin-right: 90%;
+    padding: 8px 16px;
+    background-color: yellow;
+    border-color: lightyellow;
+    border-radius: 10px;
+    border-style: solid;
+    cursor: pointer;
+}
+
+#skip:hover {
+    background-color: yellowgreen;
+    color: #fff;
+}
+
 form {
     margin-top: 1em;
     display: flex;
