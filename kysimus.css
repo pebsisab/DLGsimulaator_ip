@@ -22,24 +22,20 @@ body {
 	align-items: center;
 }
 
-.content1 {
-	width: 100%;
-}
-
-.content2 {
+.pagecontainer {
 	width: 100%;
 }
 
 .figures{
 	background-color: #52796F;
 	border-radius: 20px;
-	height: 100px;
-	width: 500px;
+	height: 200px;
+	width: 700px;
 }
 
 .category {
-	width: 90px;
-	height: 90px;
+	width: 100px;
+	height: 100px;
 	border-radius: 50%;
 	background-color: #354F52;
 	display: flex;
@@ -48,8 +44,8 @@ body {
 }
 
 .time {
-	width: 90px;
-	height: 90px;
+	width: 100px;
+	height: 100px;
 	border-radius: 50%;
 	background-color: #354F52;
 	display: flex;
@@ -65,10 +61,10 @@ body {
 	justify-content: center;
 	align-items: center;
 	background-color: #354F52;
-	height: 100px;
-	width: 500px;
+	height: 150px;
+	width: 700px;
 	border-radius: 20px;
-	font-size: 10px;
+	font-size: 9px;
 }
 
 .button-group {
@@ -83,10 +79,12 @@ body {
 	background-color: #84A98C;
 	padding: 16px 32px;
 	border-radius: 20px;
-	height: 50px;
-	width: 500px;
+	height: 65px;
+	width: 700px;
 	margin: 15px;
 	color: #fff;
+	font-size: 15px;
+	font-family: Verdana, sans-serif;
 }
 
 .answer-button:hover {
